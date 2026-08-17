@@ -8,6 +8,7 @@ The materials here may be pre-peer-review and should be treated as research-in-p
 
 - [Dual-Phase Deficit](./dual-phase-deficit/) — v1.2.1 Citation-Corrected Expert Handoff Edition (2026-06-15)
 - [D3 Model](./d3-model/) — Three-Dimensional Dual-Phase Model v1.0 Expert Handoff Edition (2026-06-16)
+- [Rotational Dual Geometry](./rotational-dual-geometry/) — v1.1 Final Handoff synthesis note (2026-06-16)
 - [Rounded D3-Bicone Supplement](./rounded-d3-bicone/) — reproducibility/source package for the certified O(2)-to-D3 splitting manuscript
 
 ## Review status
