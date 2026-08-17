@@ -28,10 +28,22 @@ The manuscript explicitly leaves final external confirmation to specialists, inc
 - final priority search using MathSciNet/zbMATH and citation networks;
 - terminology and publication-form review.
 
+## Registered manuscript metadata
+
+Target repository path:
+
+`paper/dual_phase_deficit_v1.2.1_citation_corrected_ja.pdf`
+
+SHA-256:
+
+`f260634506b1d71358d3db771b19793b2effd0743634f55feda9afed7c0cdf6a`
+
+The metadata and checksum are registered in this repository. The PDF binary itself is pending upload to the target path.
+
 ## Files
 
-- [`paper/dual_phase_deficit_v1.2.1_citation_corrected_ja.pdf`](./paper/dual_phase_deficit_v1.2.1_citation_corrected_ja.pdf) — current Japanese expert-handoff manuscript.
-- [`SHA256SUMS.txt`](./SHA256SUMS.txt) — checksum for the registered PDF.
+- [`paper/README.md`](./paper/README.md) — target filename and binary-upload status.
+- [`SHA256SUMS.txt`](./SHA256SUMS.txt) — SHA-256 checksum for the manuscript PDF.
 
 ## Citation / reuse note
 
