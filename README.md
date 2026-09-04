@@ -10,6 +10,7 @@
 | 02 | [D3 Model](./d3-model/) | 3次元・立方体の最適双対回転 | v1.0 Expert Handoff。四次主モードは厳密、全欠損の大域最小性は未証明 |
 | 03 | [Rotational Dual Geometry](./rotational-dual-geometry/) | 2D→高次元を束ねる総合研究計画 | v1.1 Final Handoff。総合ノートとして閉鎖 |
 | 04 | [Rounded D3-Bicone Supplement](./rounded-d3-bicone/) | O(2)→D3 分裂論文の再現・認証資料 | Supplement / reproducibility package |
+| 05 | [Zero Cognition — Empty-Slot Hypothesis](./zero-cognition/) | 就学前児童のゼロ認知・2×2要因分離仮説 | v0.3。外部専門家フィードバック受領、冒頭構成・用語定義・先行研究接続の改稿待ち |
 
 ## Intended file layout
 
@@ -32,21 +33,26 @@ early-stage-research/
 │   ├── SHA256SUMS.txt
 │   └── paper/
 │       └── rotational_dual_geometry_v1.1_final_ja.pdf
-└── rounded-d3-bicone/
+├── rounded-d3-bicone/
+│   ├── README.md
+│   ├── SHA256SUMS.txt
+│   └── supplement/
+│       └── Furuta_Bicone_D3_Supplement.zip
+└── zero-cognition/
     ├── README.md
-    ├── SHA256SUMS.txt
-    └── supplement/
-        └── Furuta_Bicone_D3_Supplement.zip
+    ├── EXPERT_FEEDBACK_RECORD_2026-09.md
+    └── correspondence/
+        └── KRAJCSI_REPLY_2026-09.md
 ```
 
-## Relationship of the four items
+## Relationship of the research items
 
-`Dual-Phase Deficit` は2次元の技術モデル、`D3 Model` は3次元への拡張モデル、`Rotational Dual Geometry` はそれらを接続する総合ノートです。`Rounded D3-Bicone Supplement` は別系統の認証・再現資料として管理します。
+`Dual-Phase Deficit` は2次元の技術モデル、`D3 Model` は3次元への拡張モデル、`Rotational Dual Geometry` はそれらを接続する総合ノートです。`Rounded D3-Bicone Supplement` は別系統の認証・再現資料として管理します。`Zero Cognition — Empty-Slot Hypothesis` は認知科学・発達心理学系の独立研究シードであり、数学系4項目とは別系統として管理します。
 
 ## Verification
 
-各プロジェクトの `SHA256SUMS.txt` に加えて、ルートの [`SHA256SUMS.txt`](./SHA256SUMS.txt) に4ファイルのハッシュを集約します。
+各プロジェクトの `SHA256SUMS.txt` に加えて、ルートの [`SHA256SUMS.txt`](./SHA256SUMS.txt) に登録研究ファイルのハッシュを集約します。
 
 ## Review status
 
-このリポジトリの資料は、個別READMEで明示しない限り査読前の研究途中資料です。数学的主張、優先性、用語、投稿形態の最終判断は外部専門家による確認を前提とします。
+このリポジトリの資料は、個別READMEで明示しない限り査読前の研究途中資料です。数学的・認知科学的主張、優先性、用語、投稿形態の最終判断は外部専門家による確認を前提とします。
