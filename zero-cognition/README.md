@@ -6,7 +6,7 @@ This folder preserves the 2026 research note on preschoolers’ understanding of
 
 ## Core research note
 
-- [`paper/Empty_Slot_Zero_Cognition_Hypothesis_Katsushi_Furuta_v0.3_EN_Clean.pdf`](./paper/Empty_Slot_Zero_Cognition_Hypothesis_Katsushi_Furuta_v0.3_EN_Clean.pdf)
+- [`SOURCE_MATERIALS.md`](./SOURCE_MATERIALS.md) — archival record of *The Empty-Slot Hypothesis of Zero Cognition* v0.3, including the reviewed PDF attachment filename, SHA-256, experimental structure, staged distinctions, cited literature, and the external resource supplied in the reply.
   - Title: *The Empty-Slot Hypothesis of Zero Cognition*
   - Subtitle: *Testing Zero Cognition by Factorially Dissociating Spatial Fixedness and Operational Reversibility*
   - Version: Research Note v0.3 (2026)
